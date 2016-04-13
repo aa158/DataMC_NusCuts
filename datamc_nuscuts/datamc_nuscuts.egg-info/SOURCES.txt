@@ -1,0 +1,9 @@
+setup.py
+datamc_nuscuts/__init__.py
+datamc_nuscuts/text.py
+datamc_nuscuts.egg-info/PKG-INFO
+datamc_nuscuts.egg-info/SOURCES.txt
+datamc_nuscuts.egg-info/dependency_links.txt
+datamc_nuscuts.egg-info/not-zip-safe
+datamc_nuscuts.egg-info/requires.txt
+datamc_nuscuts.egg-info/top_level.txt
